@@ -1,0 +1,23 @@
+{
+  "name": "clientsdk",
+  "version": "1.0.0",
+  "description": "api client sdk",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Danlong13579/clientSDK.git"
+  },
+  "author": "Daniel Long <danlong13579@gmail.com> (github.com/danlong13579)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Danlong13579/clientSDK/issues"
+  },
+  "homepage": "https://github.com/Danlong13579/clientSDK#readme",
+  "devDependencies": {
+    "@types/node": "^16.11.9",
+    "typescript": "^4.5.2"
+  }
+}
